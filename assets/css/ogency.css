@@ -4763,7 +4763,7 @@ h6 {
   line-height: 1;
   margin: 0;
   color: var(--ogency-white);
-  font-weight: 800;
+  font-weight: 300;
   display: inline-block;
   min-width: auto;
 }
@@ -6935,7 +6935,7 @@ h6 {
 .main-footer__about a {
   display: inline-block;
   color: var(--ogency-white);
-  font-size: 60px;
+  font-size: 46px;
   letter-spacing: -2.4px;
   line-height: 1;
   font-weight: 800;
@@ -6947,7 +6947,8 @@ h6 {
 
 @media (max-width: 991px) {
   .main-footer__about a {
-    font-size: 34px;
+    font-size: 26px;
+    letter-spacing: -1px;
   }
 }
 

@@ -2059,7 +2059,7 @@ h6 {
 }
 
 .main-menu__nav {
-  padding-left: 214px;
+  padding-left: 70px;
 }
 
 @media (max-width: 1199px) {
@@ -2102,7 +2102,7 @@ h6 {
 
 .main-menu .main-menu__list > li,
 .stricky-header .main-menu__list > li {
-  margin-left: 53px;
+  margin-left: 35px;
 }
 
 .main-menu .main-menu__list > li > a,

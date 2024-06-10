@@ -7,7 +7,7 @@
   --ogency-black2-rgb: 241, 241, 241;
   --ogency-black3: #e1e1e1;
   --ogency-black3-rgb: 225, 225, 225;
-  --ogency-color: #5d5d5d;
+  --ogency-color: #e6e6e6;
 }
 
 .main-slider__one-item__shape-1,
@@ -17,7 +17,7 @@
 
 .main-slider__one-item__shape-1 img,
 .main-slider__one-item__shape-2 img {
-  opacity: .7;
+  opacity: 0.7;
 }
 
 .client-carousel .client-carousel__one .client-carousel__one__item img:hover {

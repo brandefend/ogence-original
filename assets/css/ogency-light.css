@@ -10,6 +10,10 @@
   --ogency-color: #5d5d5d;
 }
 
+.mobile-nav__content .mobile-nav__container .main-menu__list li a {
+  color: black;
+}
+
 .main-slider__one-item__shape-1,
 .main-slider__one-item__shape-2 {
   background-color: #d9d9d9;
@@ -89,4 +93,40 @@
 
 .main-footer__navmenu ul li a {
   color: #e6e6e6;
+}
+
+.stricky-header {
+  background-color: #e6e6e6;
+}
+
+h2 {
+  font-weight: 600;
+}
+
+h3 {
+  font-family: "Glacial Indifference", sans-serif;
+  font-weight: bold;
+}
+
+.service-one__item__title {
+  font-size: 22px;
+}
+
+p {
+  font-family: "Glacial Indifference", sans-serif;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Glacial Indifference";
+  src: url("/assets/fonts/GlacialIndifference-Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Glacial Indifference";
+  src: url("/assets/fonts/GlacialIndifference-Bold.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
 }

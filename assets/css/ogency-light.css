@@ -64,11 +64,11 @@
 }
 
 .main-footer {
-  background-color: #101010;
+  background-color: #112d4e;
 }
 
 .main-footer__social a {
-  background-color: var(--ogency-white);
+  background-color: #1a4578;
 }
 
 .main-footer__top {
@@ -77,4 +77,16 @@
 
 .team-one__item__links {
   background-color: var(--ogency-black2);
+}
+
+.footer-widget__text {
+  color: #e6e6e6;
+}
+
+.main-footer__copyright {
+  color: #e6e6e6;
+}
+
+.main-footer__navmenu ul li a {
+  color: #e6e6e6;
 }

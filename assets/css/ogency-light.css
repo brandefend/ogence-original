@@ -10,6 +10,10 @@
   --ogency-color: #5d5d5d;
 }
 
+.section-title__title {
+  text-transform: uppercase;
+}
+
 .mobile-nav__content .mobile-nav__container .main-menu__list li a {
   color: black;
 }
